@@ -105,6 +105,11 @@ chisqtestGC(table2)
 
 ## More data version
 
+  
+```{r}
+fisherXY(mydata$race, mydata$cappun, printAll = "TRUE")
+```
+
 
 # Discussion and Conclusion
 
