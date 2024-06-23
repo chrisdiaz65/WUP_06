@@ -60,6 +60,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
+In this graph, the first slide displays the number of individuals categorized by races, white. black, and others. The white race had the most with over 1500 reports, and the black and other races had less than 250 reports. 
+In the last display the chart shows the percentage of the races in favor of capital punishment. Each category was compared to each other, the white compared to support versus the opposition of capitol punishment and was in favor of capital punishment by approximately 64%. The black race was in opposition with a much lower percentage of around 57%. The other race was in favor of capital punishment with a near report for its opposite, the support percentage was around 55%. 
 
 
 
